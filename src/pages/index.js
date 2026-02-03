@@ -1,0 +1,7 @@
+export { default as Dashboard } from './Dashboard'
+export { default as Team } from './Team'
+export { default as Projects } from './Projects'
+export { default as Tasks } from './Tasks'
+export { default as Timesheet } from './Timesheet'
+export { default as Attendance } from './Attendance'
+export { default as Reports } from './Reports'
